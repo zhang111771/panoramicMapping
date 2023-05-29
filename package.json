@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "gsap": "^3.11.5",
+    "three": "^0.152.2",
     "vue": "^3.2.13"
   },
   "devDependencies": {
